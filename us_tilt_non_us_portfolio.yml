@@ -1,7 +1,7 @@
 id: 60ae9aa4dc3fe02bbf72dc00
 type: Portfolio
 spec:
-  name: "U.S. Tilt (Non U.S.)"
+  name: "U.S. (Non U.S.)"
   assets:
     - type: Security
       id: IWV
